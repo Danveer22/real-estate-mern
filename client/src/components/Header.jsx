@@ -7,8 +7,8 @@ function Header() {
       <div className="flex justify-between max-w-6xl mx-auto p-3 items-center ">
         <Link to="/">
           <h1 className="font-bold text-sm sm:text-xl flex">
-            <span className="text-slate-500">Danveer</span>
-            <span className="text-slate-700">Estate</span>
+            <span className="text-slate-500">Danveer Gajendra</span>
+            <span className="text-slate-700">Estate </span>
           </h1>
         </Link>
         <form className="bg-slate-100 p-3 rounded-lg flex items-center">
